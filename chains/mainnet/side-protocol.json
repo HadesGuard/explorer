@@ -1,0 +1,19 @@
+{
+    "chain_name": "side protocol",
+    "api": ["https://side-api.hadesguard.tech"],
+    "rpc": ["https://side-rpc.hadesguard.tech"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "empower",
+    "logo": "https://imgur.com/7J4LC8F.png",
+    "assets": [{
+        "base": "umpwr",
+        "symbol": "MPWR",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://imgur.com/7J4LC8F.png"
+    }]
+  }
