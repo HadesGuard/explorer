@@ -1,5 +1,5 @@
 {
-    "chain_name": "side protocol",
+    "chain_name": "side testnet",
     "api": ["https://side-api.hadesguard.tech"],
     "rpc": ["https://side-rpc.hadesguard.tech"],
     "coingecko": "",
@@ -10,8 +10,8 @@
     "addr_prefix": "empower",
     "logo": "https://imgur.com/7J4LC8F.png",
     "assets": [{
-        "base": "umpwr",
-        "symbol": "MPWR",
+        "base": "uside",
+        "symbol": "SIDE",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "https://imgur.com/7J4LC8F.png"
