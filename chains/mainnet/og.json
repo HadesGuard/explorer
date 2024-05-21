@@ -1,19 +1,19 @@
 {
-    "chain_name": "og testnet",
-    "api": ["https://og-api.hadesguard.tech"],
-    "rpc": ["https://og-rpc.hadesguard.tech"],
+    "chain_name": "og-testnet",
+    "api": ["https://0g-api.originstake.com"],
+    "rpc": ["https://0g-rpc.originstake.com"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "empower",
-    "logo": "https://raw.githubusercontent.com/ValidatorVN/GuideNode/main/Agoric/KBZhJfhC_400x400.jpg",
+    "addr_prefix": "kava",
+    "logo": "https://imgur.com/cgdmv8K.jpg",
     "assets": [{
-        "base": "uOG",
-        "symbol": "OG",
-        "exponent": "6",
+        "base": "ua0gi",
+        "symbol": "a0gi",
+        "exponent": "12",
         "coingecko_id": "",
-        "logo": "https://raw.githubusercontent.com/ValidatorVN/GuideNode/main/Agoric/KBZhJfhC_400x400.jpg"
+        "logo": "https://imgur.com/cgdmv8K.jpg"
     }]
   }

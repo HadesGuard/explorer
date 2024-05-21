@@ -7,7 +7,7 @@
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "empower",
+    "addr_prefix": "bc",
     "logo": "https://imgur.com/7J4LC8F.png",
     "assets": [{
         "base": "uside",

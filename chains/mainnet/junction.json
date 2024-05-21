@@ -1,0 +1,19 @@
+{
+    "chain_name": "junction-testnet",
+    "api": ["https://airchain-api.hadesguard.tech"],
+    "rpc": ["https://airchain-rpc.hadesguard.tech"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "199",
+    "min_tx_fee": "800",
+    "addr_prefix": "air",
+    "logo": "https://imgur.com/VFqtaJ4.jpg",
+    "assets": [{
+        "base": "uamf",
+        "symbol": "amf",
+        "exponent": "12",
+        "coingecko_id": "",
+        "logo": "https://imgur.com/VFqtaJ4.jpg"
+    }]
+  }
