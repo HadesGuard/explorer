@@ -1,7 +1,7 @@
 {
     "chain_name": "og-testnet",
-    "api": ["https://0g-api.originstake.com"],
-    "rpc": ["https://0g-rpc.originstake.com"],
+    "api": ["https://og-api.hadesguard.tech"],
+    "rpc": ["https://og-rpc.hadesguard.tech"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
