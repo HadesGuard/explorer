@@ -7,7 +7,7 @@
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "kava",
+    "addr_prefix": "0g",
     "logo": "https://imgur.com/cgdmv8K.jpg",
     "assets": [{
         "base": "ua0gi",
