@@ -41,7 +41,9 @@ function changeEndpoint(item: Endpoint) {
         <div
           class="text-xs text-gray-500 dark:text-gray-400 whitespace-nowrap hidden md:!block"
         >
-          {{ chainStore.connErr || chainStore.endpoint.address }}
+               Chain Id: {{ baseStore.latest.block?.header.chain_id && baseStore.connected
+                        ? baseStore.latest.block.header.chain_id
+                        : 'N/A' }}
         </div>
       </div>
     </label>

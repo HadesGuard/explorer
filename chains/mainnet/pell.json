@@ -1,0 +1,19 @@
+{
+    "chain_name": "pell-testnet",
+    "api": ["https://pell-testnet-api.itrocket.net"],
+    "rpc": ["https://pell-testnet-rpc.itrocket.net"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "199",
+    "min_tx_fee": "800",
+    "addr_prefix": "pell",
+    "logo": "https://testnet.pell.explorers.guru/chains/pell.svg",
+    "assets": [{
+        "base": "upell",
+        "symbol": "PELL",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://testnet.pell.explorers.guru/chains/pell.svg"
+    }]
+  }
